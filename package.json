@@ -1,0 +1,14 @@
+{
+  "name": "ts37542-preact-autoimport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "preact": "^10.3.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.0-dev.20200324"
+  }
+}
